@@ -1,0 +1,3 @@
+#!groovy
+
+echo 'groovy man'
